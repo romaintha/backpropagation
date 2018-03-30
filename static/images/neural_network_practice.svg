@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="neural_network_practice.svg">
+   sodipodi:docname="neural_network_practice.svg"
+   inkscape:export-filename="/home/romain/projects/backpropagation/static/images/neural_network_practice.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="170.27146"
+     inkscape:cx="103.30717"
      inkscape:cy="190.86852"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
